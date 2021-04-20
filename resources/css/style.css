@@ -12,6 +12,13 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	font-size: 42px;
+	font-weight: 300;
+	color: #fff;
+	text-align: center;
+}
+
 h4 {
 	color: aquamarine;
 	font-size: 16px;
@@ -19,6 +26,34 @@ h4 {
 	font-weight: 300;
 }
 
+p {
+	font-size: 21px;
+	color: grey;
+	text-align: center;
+}
+
 a {
 	color: aquamarine;
+}
+
+.video {
+	text-align: center;
+}
+
+.image {
+	text-align: center;
+}
+
+.icon {
+	text-align: center;
+	margin-top: 2em;
+}
+
+footer {
+	margin-top: 4em;
+}
+
+footer p {
+	text-align: right;
+	font-size: 14px;
 }
